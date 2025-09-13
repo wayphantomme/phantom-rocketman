@@ -115,7 +115,7 @@ body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-seri
 .hero {
   position: relative;
   height: 100vh; /* setinggi layar penuh */
-  background: url('/png/spacex.jpg') no-repeat center center/cover; 
+  background: url('./png/spacex.jpg') no-repeat center center/cover; 
   display: flex;
   align-items: center;
   justify-content: flex-start;
